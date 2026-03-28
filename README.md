@@ -1,5 +1,5 @@
 ## Hi there , I'm Ibrahim elma , feel free to explore my projects 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elma0101&show_icons=true&theme=radical)
 <!--
 
 
