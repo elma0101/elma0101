@@ -1,5 +1,5 @@
 ## Hi there , I'm Ibrahim elma , feel free to explore my projects 👋
-![My GitHub Metrics](https://github.com/elma0101/elma0101/blob/master/github-metrics.svg)
+![My GitHub Metrics](https://github.com/elma0101/elma0101/github-metrics.svg)
 <!--
 
 
