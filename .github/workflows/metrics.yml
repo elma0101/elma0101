@@ -1,11 +1,12 @@
 name: Metrics
 on:
-  # Schedule updates (every 12 hours)
   schedule: [{cron: "0 */12 * * *"}]
-  # Allows you to run this manually from the Actions tab
   workflow_dispatch:
-  # Run on every push to the main branch
   push: {branches: ["master", "main"]}
+
+permissions:
+  contents: write  # This gives the action permission to save the image
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
