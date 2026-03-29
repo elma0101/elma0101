@@ -3,7 +3,7 @@
 
 | 📊 **My GitHub Metrics** |
 | :---: |
-| ![My Stats](github-metrics.svg) |
+| ![My GitHub Metrics](github-metrics.svg?v=1) |
 
 </div>
 
