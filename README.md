@@ -1,6 +1,11 @@
 ## Hi there , I'm Ibrahim elma , feel free to explore my projects 👋
-![My GitHub Metrics](github-metrics.svg)
-<!--
+<div align="center">
+
+| 📊 **My GitHub Metrics** |
+| :---: |
+| ![My Stats](github-metrics.svg) |
+
+</div>
 
 
 Here are some ideas to get you started:
