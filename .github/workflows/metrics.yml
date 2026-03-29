@@ -16,10 +16,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: elma0101
           template: classic
-          base: header, repositories
+          base: header                       # Keep it minimal like the reference
           config_timezone: UTC
           
-          # 🎨 Radical Theme Colors
+          # 🎨 Radical Color Palette
           config_colors: |
             {
               "background": "#1a1b27",
@@ -28,22 +28,27 @@ jobs:
               "icon": "#79c0ff"
             }
           
-          # 🛠️ Advanced Styling (Rounding & Fonts)
+          # 🛠️ "Nuclear" CSS Override (This forces the style)
           extras_css: |
-            /* The main container background and roundness */
-            .container { 
-              background-color: #1a1b27 !important; 
-              border-radius: 14px !important;
-              padding: 20px !important;
+            :root {
+              --color-calendar-graph-day-bg: #161b22;
+              --color-calendar-graph-day-L1-bg: #0e4429;
             }
-            /* Clean coding font */
-            * { font-family: 'JetBrains Mono', monospace !important; }
-            /* Smooth language bars */
-            .languages-chart-item { border-radius: 10px !important; }
+            svg {
+              background: #1a1b27 !important;
+              border-radius: 14px !important;
+            }
+            .container { background: transparent !important; }
+            * { 
+              font-family: 'JetBrains Mono', monospace !important; 
+              color: #a9b1d6 !important; 
+            }
+            h1, h2, .title { color: #ff007c !important; }
+            .field svg { fill: #79c0ff !important; }
 
-          # 🈷️ Languages Plugin (Configured for Backend)
+          # 🈷️ Languages Plugin
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          plugin_languages_limit: 5
