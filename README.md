@@ -7,4 +7,5 @@
 
 </div>
 
-
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,py,fastapi)](https://skillicons.dev)
