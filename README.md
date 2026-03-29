@@ -1,5 +1,5 @@
 ## Hi there , I'm Ibrahim elma , feel free to explore my projects 👋
-![My GitHub stats](https://github-readme-stats-sigma.vercel.app/api?username=elma0101&show_icons=true&theme=radical)
+![My GitHub Metrics](https://github.com/elma0101/elma0101/blob/master/github-contribution-grid-snake.svg)
 <!--
 
 
