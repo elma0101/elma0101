@@ -1,4 +1,4 @@
-## Hi there , I'm Ibrahim elma , feel free to explore my projects 👋
+## Hi there , feel free to explore my projects 👋
 <div align="center">
 
 | 📊 **My GitHub Metrics** |
