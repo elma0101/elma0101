@@ -57,7 +57,7 @@ h1, h2, .title { color: #ff007c !important; }
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#03001c" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,11 +85,11 @@ h1, h2, .title { color: #ff007c !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.17285456915675" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="434.17285456915675" y="0" width="15.242971766441938" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.4158263355987" y="0" width="3.954769900448824" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="453.3705962360475" y="0" width="3.772800279149168" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="457.1433965151967" y="0" width="2.8566034848033004" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.1303958124665" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.1303958124665" y="0" width="15.241481121362087" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.3718769338286" y="0" width="3.954383154453071" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="453.3262600882817" y="0" width="3.8174157807047937" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="457.14367586898646" y="0" width="2.85632413101357" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,7 +101,7 @@ h1, h2, .title { color: #ff007c !important; }
                                 Python
                             </div>
                             <small>
-                                <div>94.39%</div>
+                                <div>94.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -147,7 +147,7 @@ h1, h2, .title { color: #ff007c !important; }
                                 Dart
                             </div>
                             <small>
-                                <div>0.82%</div>
+                                <div>0.83%</div>
                             </small>
                         </div>
                     </section>
